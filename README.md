@@ -53,4 +53,4 @@ Strong sales growth observed mid-year (June–August).
 
 
 4. Screenshot:
-   
+   https://github.com/samfreerit/Amazing-Marts/blob/main/Sales.png
